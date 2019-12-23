@@ -1,5 +1,7 @@
-# LinuxTerminal
+# LinuxTerminal - Fixed
 Written in C++
-Is the same as my old cmd in C++, but it can run on linux.
-To run it, open the original terminal and navigate to the path of "terminal.cpp". Compile it using g++.
-**Enjoy it!**
+
+## Info
+The terminal is precompiled and fixed so all you have to do is run terminal.end by doing `./terminal.end`
+
+**Here you go!**
